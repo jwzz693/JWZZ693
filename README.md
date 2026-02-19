@@ -37,55 +37,85 @@
 
 <!-- ─────────────────── § ABOUT ME ─────────────────── -->
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
-```yaml
-apiVersion: v1
-kind: Developer
-metadata:
-  name: 元芳
-  labels:
-    role: full-stack-architect
-    experience: senior
-    location: 🌏 China
-spec:
-  passions:
-    - 🏗️ 构建高可用分布式系统
-    - 🤖 探索 AI 前沿技术边界
-    - 🌐 开源生态贡献与建设
-  currentWork:
-    - ⚡ 智能化研发效能平台
-    - 🔧 微服务架构深度优化
-    - ☁️ 云原生基础设施建设
-  goals2026:
-    - 🎯 主导开源框架级项目
-    - 📝 技术影响力持续输出
-    - 📐 架构方法论体系沉淀
-  philosophy: |
-    "优秀的代码是精心设计的产物，
-     而非偶然的结果。"
-```
-
-</td>
-<td width="45%" valign="top" align="center">
+</div>
 
 <br/>
-<img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 8px;"/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🧑‍💻_WHO_AM_I-58a6ff?style=for-the-badge&labelColor=0d1117" alt=""/>
 
 <br/><br/>
 
-<!-- Activity Status Cards -->
-<img src="https://img.shields.io/badge/🔭_Working_on-智能研发平台-58a6ff?style=flat-square&labelColor=0d1117" alt="Working on"/>
+&nbsp;&nbsp;&nbsp;&nbsp;嗨！我是 **元芳** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">，一名热爱架构设计的 **全栈工程师**。
+
+&nbsp;&nbsp;&nbsp;&nbsp;我相信好的代码就像好的建筑 —— 结构优雅、经久耐用。每天都在追求用更精妙的方式解决复杂问题。
+
 <br/>
-<img src="https://img.shields.io/badge/🌱_Learning-LLM%20%7C%20eBPF%20%7C%20Rust-3fb950?style=flat-square&labelColor=0d1117" alt="Learning"/>
+
+<img src="https://img.shields.io/badge/🔥_PASSION-3fb950?style=for-the-badge&labelColor=0d1117" alt=""/>
+
+<br/><br/>
+
+<table>
+<tr><td>🏗️</td><td>构建<b>高可用分布式系统</b>，让服务永不停歇</td></tr>
+<tr><td>🤖</td><td>探索 <b>AI 前沿技术</b>边界，用智能驱动效率</td></tr>
+<tr><td>🌐</td><td>深耕<b>开源生态</b>，与全球开发者共建未来</td></tr>
+<tr><td>☁️</td><td>实践<b>云原生架构</b>，拥抱弹性与可观测性</td></tr>
+</table>
+
 <br/>
-<img src="https://img.shields.io/badge/💬_Ask_me-Architecture%20%7C%20Cloud%20Native-f0883e?style=flat-square&labelColor=0d1117" alt="Ask me"/>
+
+<img src="https://img.shields.io/badge/🎯_2026_GOALS-f0883e?style=for-the-badge&labelColor=0d1117" alt=""/>
+
+<br/><br/>
+
+- [x] 持续开源贡献，建立技术影响力
+- [ ] 主导开源框架级项目
+- [ ] 架构方法论体系沉淀
+- [ ] 技术写作 & 社区布道
+
+</td>
+<td width="50%" valign="top" align="center">
+
 <br/>
-<img src="https://img.shields.io/badge/⚡_Fun_fact-深夜灵感时段%2000:00--03:00-e3b341?style=flat-square&labelColor=0d1117" alt="Fun fact"/>
+
+<img alt="Coding" width="90%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_STATUS-e3b341?style=for-the-badge&labelColor=0d1117" alt=""/>
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/🔭_Working_on-智能研发效能平台-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Working on"/></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/🌱_Learning-LLM%20│%20eBPF%20│%20Rust-3fb950?style=for-the-badge&labelColor=0d1117" alt="Learning"/></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/💬_Ask_me-Architecture%20│%20Cloud%20Native-f0883e?style=for-the-badge&labelColor=0d1117" alt="Ask me"/></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/🌙_Peak_Hours-00:00%20—%2003:00-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Peak Hours"/></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/☕_Daily_Fuel-Coffee%20×%203-6F4E37?style=for-the-badge&labelColor=0d1117" alt="Coffee"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_PHILOSOPHY-8b949e?style=for-the-badge&labelColor=0d1117" alt=""/>
+
+<br/><br/>
+
+> *"优秀的代码是精心设计的产物，*
+> *而非偶然的结果。"*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=340&height=30&lines=%E4%BB%A3%E7%A0%81%E5%A6%82%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%BC%98%E9%9B%85%E4%B8%94%E5%9D%9A%E5%9B%BA;Architecture+is+both+art+and+science;Ship+fast%2C+ship+right+%E2%9A%A1" alt="Typing SVG" />
 
 </td>
 </tr>
