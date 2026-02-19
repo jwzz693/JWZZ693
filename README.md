@@ -1,272 +1,456 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          𝗝𝗪𝗭𝗭𝟲𝟵𝟯 · GitHub Profile                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JWZZ693&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- Cyberpunk Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=JWZZ693&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&desc=Software%20Architect%20%E2%94%82%20Full%20Stack%20Engineer%20%E2%94%82%20Open%20Source%20Advocate&descAlignY=65&descSize=14&descColor=8b949e"/>
 
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=🚀+Full+Stack+Developer;💡+Cloud+Native+Explorer;🤖+AI+Technology+Enthusiast;🌏+代码改变世界;✨+Open+Source+Contributor" alt="Typing SVG" />
-
-<!-- Visitor Badge -->
+<!-- Elegant Typing Animation -->
 <br/>
-<img src="https://visitcount.itsvg.in/api?id=jwzz693&icon=5&color=6" alt="Visit Count" />
+
+```typescript
+const developer = {
+    name: "JWZZ693",
+    role: "Full Stack Architect",
+    philosophy: "Engineering excellence through elegant abstractions",
+    currentFocus: ["Distributed Systems", "AI/ML Infrastructure", "Cloud Native"],
+};
+```
+
+<br/>
+
+<a href="https://github.com/jwzz693"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&style=for-the-badge&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djwzz693&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=jwzz693&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&abbreviated=true&labelColor=161b22" alt="Profile Views"/>
+<a href="#"><img src="https://img.shields.io/badge/Focus-Cloud%20Native%20%C2%B7%20AI%20%C2%B7%20Architecture-58a6ff?style=for-the-badge&labelColor=161b22" alt="Focus"/></a>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- ─────────────────── § ABOUT ME ─────────────────── -->
 
-## 🚀 关于我
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-> *"代码如诗，优雅且高效"*
+## ◈ 关于我
 
-- 🔭 我是一名充满激情的 **全栈开发者**，专注于构建高质量的应用
-- 🌱 目前正在深入探索 **云原生架构** 和 **AI 技术**
-- 🎯 **2026年目标**：贡献更多开源项目，建立技术影响力
-- 👯 积极寻找有趣的 **开源项目合作** 机会
-- 💬 乐于讨论 **技术难题** 和 **创新想法**
-- ⚡ 信念：**持续学习，永不止步**
-- 🎨 热爱 **代码重构** 和 **架构设计**
+```yaml
+apiVersion: v1
+kind: Developer
+metadata:
+  name: JWZZ693
+  labels:
+    role: full-stack-architect
+    experience: senior
+spec:
+  passions:
+    - 构建高可用分布式系统
+    - 探索 AI 前沿技术边界
+    - 开源生态贡献与建设
+  currentWork:
+    - 智能化研发效能平台
+    - 微服务架构深度优化
+    - 云原生基础设施建设
+  goals2026:
+    - 主导开源框架级项目
+    - 技术影响力持续输出
+    - 架构方法论体系沉淀
+  philosophy: |
+    "优秀的代码是精心设计的产物，
+     而非偶然的结果。"
+```
 
-<br clear="both"/>
+</td>
+<td width="45%" valign="top" align="center">
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+<img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 8px;"/>
 
-## 🛠️ 技术栈
+<br/><br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=380&height=80&lines=%E2%96%B8+Architecting+scalable+systems;%E2%96%B8+Engineering+with+precision;%E2%96%B8+%E4%BB%A3%E7%A0%81%E5%A6%82%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%BC%98%E9%9B%85%E4%B8%94%E5%9D%9A%E5%9B%BA" alt="Typing SVG" />
 
-### 💻 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</td>
+</tr>
+</table>
 
-### 🎨 前端开发
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-### ⚙️ 后端开发
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🗄️ 数据库
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ 云服务与DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
-
-## 📊 技能等级
+<!-- ─────────────────── § TECH STACK ─────────────────── -->
 
 <div align="center">
 
-| 技能 | 熟练度 |
-|------|--------|
-| **Full Stack Development** | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **Cloud Native (K8s/Docker)** | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **Frontend (React/Vue)** | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **Backend (Node/Django/Spring)** | ![](https://geps.dev/progress/87?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **Database Design** | ![](https://geps.dev/progress/82?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **AI/ML Integration** | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| **System Architecture** | ![](https://geps.dev/progress/83?dangerColor=800000&warningColor=ff9900&successColor=006600) |
+## ◈ 技术矩阵
 
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-
-## 📊 GitHub 数据统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwzz693&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwzz693&layout=compact&langs_count=8&theme=radical&locale=cn&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwzz693&theme=radical&hide_border=true&locale=zh_Hans&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="jwzz693" />
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## 🏆 GitHub 成就奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jwzz693&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&locale=cn" alt="jwzz693" />
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-## 📈 贡献活动图
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwzz693&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F" alt="GitHub Activity Graph" />
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%">
-
-## 🐍 贡献蛇
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
-
-## 💡 每日金句
-
-<div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default)
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🎯 当前专注
-
-<div align="center">
+<br/>
 
 <table>
-  <tr>
-    <td align="center" width="50%" style="border: 2px solid #F85D7F; border-radius: 10px; padding: 20px;">
-      <h3>🔭 正在开发</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-智能化开发工具-F85D7F?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/-微服务架构优化-F8D866?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/-开源社区贡献-79DDFF?style=flat-square" />
-      </p>
-    </td>
-    <td align="center" width="50%" style="border: 2px solid #79DDFF; border-radius: 10px; padding: 20px;">
-      <h3>🌱 正在学习</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-AI与机器学习-79DDFF?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/-云原生架构设计-F85D7F?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/-Web3技术栈-F8D866?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+**▸ Languages**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,go&perline=3&theme=dark" alt="Languages"/>
+
+</td>
+<td align="center" width="25%">
+
+**▸ Frontend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass&perline=3&theme=dark" alt="Frontend"/>
+
+</td>
+<td align="center" width="25%">
+
+**▸ Backend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,spring,graphql,kafka&perline=3&theme=dark" alt="Backend"/>
+
+</td>
+<td align="center" width="25%">
+
+**▸ Infrastructure**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions&perline=3&theme=dark" alt="DevOps"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**▸ Databases**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch&perline=5&theme=dark" alt="Databases"/>
+
+</td>
+<td align="center" width="33%">
+
+**▸ Tools & Platforms**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,linux,nginx,vscode,figma&perline=5&theme=dark" alt="Tools"/>
+
+</td>
+<td align="center" width="33%">
+
+**▸ AI / ML**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=5&theme=dark" alt="AI/ML"/>
+
+</td>
+</tr>
 </table>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
 
-## 🌟 精选项目
-
-<div align="center">
-  
-### 💎 请在 GitHub Profile 中 Pin 您最引以为豪的项目！
-
-<img src="https://img.shields.io/badge/🚀-将您的优秀项目固定到Profile-F85D7F?style=for-the-badge" />
-
-<sub>*访问您的 GitHub Profile → 自定义您的固定项目 → 展示您的精彩作品*</sub>
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
-
-## 🎲 趣味事实
+<!-- ─────────────────── § EXPERTISE RADAR ─────────────────── -->
 
 <div align="center">
 
-| 💡 | 有趣的事 |
-|:--:|---------|
-| ☕ | 我每天至少要喝 **3 杯咖啡** 才能高效编码 |
-| 🌙 | 我是一个 **夜猫子开发者**，灵感常在深夜迸发 |
-| 🎮 | 除了编程，我热爱 **游戏开发** 和 **开源社区** |
-| 📚 | 我相信 **代码审查** 和 **结对编程** 能让代码更优雅 |
-| 🚀 | 我的座右铭：**代码可以改变世界** |
+## ◈ 能力雷达
+
+<br/>
+
+```
+                    System Design
+                         ██████████  95%
+                        ╱            ╲
+     Cloud Native  █████████  90%     █████████  92%  Frontend
+                  ╱                            ╲
+    DevOps/SRE  ████████  88%          █████████  90%  Backend
+                  ╲                            ╱
+     Database  █████████  87%          ████████  82%  AI/ML
+                        ╲            ╱
+                         █████████  85%
+                      Distributed Systems
+```
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+| Domain | Proficiency | Level |
+|:-------|:----------:|:-----:|
+| `System Architecture` | █████████░ | **95%** |
+| `Frontend Engineering` | █████████░ | **92%** |
+| `Backend Development` | █████████░ | **90%** |
+| `Cloud Native / K8s` | █████████░ | **90%** |
+| `DevOps & SRE` | ████████░░ | **88%** |
+| `Database Design` | ████████░░ | **87%** |
+| `Distributed Systems` | ████████░░ | **85%** |
+| `AI/ML Engineering` | ████████░░ | **82%** |
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<br/>
 
-## 📊 详细指标
+<!-- ─────────────────── § GITHUB METRICS ─────────────────── -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwzz693&theme=radical" alt="Profile Details" width="100%"/>
+## ◈ GitHub 数据面板
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jwzz693&theme=radical&utcOffset=8" alt="Productive Time" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jwzz693&theme=radical" alt="Repos Per Language" width="49%"/>
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwzz693&show_icons=true&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwzz693&layout=compact&langs_count=10&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jwzz693&hide_border=true&locale=zh_Hans&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="Streak Stats"/>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
-## 💬 联系方式
+<!-- ─────────────────── § TROPHY CASE ─────────────────── -->
 
 <div align="center">
 
-### 📫 欢迎与我交流！
+## ◈ 成就陈列
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
+<br/>
 
-<sub>*如有合作意向或技术讨论，随时欢迎联系！*</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=jwzz693&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&locale=cn" alt="Trophies"/>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<br/>
 
-## 🌈 支持我的工作
+<!-- ─────────────────── § ACTIVITY & CONTRIBUTION ─────────────────── -->
 
 <div align="center">
 
-如果您喜欢我的项目，请考虑给个 ⭐️ Star！
+## ◈ 贡献全景
 
-![GitHub followers](https://img.shields.io/github/followers/jwzz693?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/jwzz693?style=social)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jwzz693&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0883e&area=true&area_color=161b22" alt="Activity Graph" width="98%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwzz693&theme=github_dark" alt="Profile Details" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jwzz693&theme=github_dark&utcOffset=8" alt="Productive Time" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jwzz693&theme=github_dark" alt="Repos Per Language" width="49%"/>
 
 </div>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%">
+<br/>
+
+<!-- ─────────────────── § CONTRIBUTION SNAKE ─────────────────── -->
 
 <div align="center">
 
-### 💭 "Talk is cheap. Show me the code." — Linus Torvalds
+## ◈ 贡献动画
 
-<sub>⭐️ From [jwzz693](https://github.com/jwzz693) | 持续更新中...</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jwzz693/jwzz693/output/github-contribution-grid-snake-dark.svg" width="98%">
+</picture>
 
 </div>
 
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
+
+<!-- ─────────────────── § CURRENT FOCUS ─────────────────── -->
+
+<div align="center">
+
+## ◈ 工程焦点
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ▸ 在研方向
+
+```
+┌──────────────────────────────────┐
+│  ◆ 智能研发效能平台              │
+│  ◆ 大规模微服务治理框架          │
+│  ◆ 实时数据处理管线              │
+│  ◆ 开源基础设施组件              │
+└──────────────────────────────────┘
+```
+
+</td>
+<td align="center" width="50%">
+
+### ▸ 技术探索
+
+```
+┌──────────────────────────────────┐
+│  ◆ LLM 应用工程化实践            │
+│  ◆ eBPF 可观测性体系             │
+│  ◆ Rust 系统级编程               │
+│  ◆ WebAssembly 边缘计算          │
+└──────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § PINNED PROJECTS ─────────────────── -->
+
+<div align="center">
+
+## ◈ 精选项目
+
+<br/>
+
+<a href="https://github.com/jwzz693"><img src="https://img.shields.io/badge/▸_请将您最出色的仓库_Pin_到_Profile_页面-161b22?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff" alt="Pin Projects"/></a>
+
+<br/>
+
+<sub>GitHub Profile → Customize your pins → 选择您最引以为豪的项目展示</sub>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § DAILY QUOTE ─────────────────── -->
+
+<div align="center">
+
+## ◈ 灵感驿站
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § FUN FACTS ─────────────────── -->
+
+<div align="center">
+
+## ◈ 碎片拼图
+
+<br/>
+
+```python
+class JWZZ693:
+    """A developer who believes in craftsmanship."""
+
+    daily_fuel     = "☕ × 3"
+    peak_hours     = "00:00 — 03:00"   # 深夜灵感时段
+    side_quests    = ["游戏引擎探索", "开源社区运营", "技术文章输出"]
+    code_review    = True               # 代码审查是信仰
+    motto          = "代码即基建，架构即艺术"
+
+    def __repr__(self):
+        return "< Engineer who ships with precision />"
+```
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § CONNECT ─────────────────── -->
+
+<div align="center">
+
+## ◈ 建立连接
+
+<br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" alt="Telegram"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff" alt="Dev.to"/></a>
+
+<br/><br/>
+
+<sub>欢迎技术交流 · 项目合作 · 思想碰撞</sub>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § SUPPORT ─────────────────── -->
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/jwzz693?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/jwzz693?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=e3b341" alt="Stars"/>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── § FOOTER ─────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   "Any fool can write code that a computer can understand.   ║
+  ║    Good programmers write code that humans can understand."   ║
+  ║                                        — Martin Fowler       ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+<sub>Crafted with intention by <a href="https://github.com/jwzz693">@jwzz693</a> · Last updated Feb 2026</sub>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
 
