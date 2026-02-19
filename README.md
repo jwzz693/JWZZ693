@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          𝗝𝗪𝗭𝗭𝟲𝟵𝟯 · GitHub Profile                        -->
+<!--                            元芳 · GitHub Profile                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=JWZZ693&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&desc=Software%20Architect%20%E2%94%82%20Full%20Stack%20Engineer%20%E2%94%82%20Open%20Source%20Advocate&descAlignY=65&descSize=14&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=%E5%85%83%E8%8A%B3&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&desc=Software%20Architect%20%E2%94%82%20Full%20Stack%20Engineer%20%E2%94%82%20Open%20Source%20Advocate&descAlignY=65&descSize=14&descColor=8b949e"/>
 
 <!-- Animated Typing -->
 <br/>
@@ -47,7 +47,7 @@
 apiVersion: v1
 kind: Developer
 metadata:
-  name: JWZZ693
+  name: 元芳
   labels:
     role: full-stack-architect
     experience: senior
@@ -454,7 +454,7 @@ spec:
 <br/>
 
 ```python
-class JWZZ693:
+class YuanFang:    # 元芳
     """A developer who believes in craftsmanship. 🛠️"""
 
     daily_fuel     = "☕ × 3"
@@ -577,7 +577,7 @@ class JWZZ693:
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Thanks+for+visiting!+%F0%9F%91%8B+Have+a+great+day!;Crafted+with+%E2%9D%A4%EF%B8%8F+by+JWZZ693+%C2%B7+2026" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Thanks+for+visiting!+%F0%9F%91%8B+Have+a+great+day!;Crafted+with+%E2%9D%A4%EF%B8%8F+by+%E5%85%83%E8%8A%B3+%C2%B7+2026" alt="Footer Typing SVG" />
 
 </div>
 
