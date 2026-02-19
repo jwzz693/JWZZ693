@@ -21,7 +21,7 @@ const developer = {
 
 <br/>
 
-<a href="https://github.com/jwzz693"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&style=for-the-badge&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djwzz693&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="followers"/></a>
+<a href="https://github.com/jwzz693?tab=followers"><img src="https://img.shields.io/github/followers/jwzz693?logo=github&label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=jwzz693&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&abbreviated=true&labelColor=161b22" alt="Profile Views"/>
 <a href="#"><img src="https://img.shields.io/badge/Focus-Cloud%20Native%20%C2%B7%20AI%20%C2%B7%20Architecture-58a6ff?style=for-the-badge&labelColor=161b22" alt="Focus"/></a>
 
@@ -227,7 +227,7 @@ spec:
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jwzz693&hide_border=true&locale=zh_Hans&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="Streak Stats"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=jwzz693&hide_border=true&locale=zh_Hans&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="Streak Stats"/>
 
 </div>
 
