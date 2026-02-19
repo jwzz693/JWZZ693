@@ -4,30 +4,36 @@
 
 <div align="center">
 
-<!-- Cyberpunk Header -->
+<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=JWZZ693&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&desc=Software%20Architect%20%E2%94%82%20Full%20Stack%20Engineer%20%E2%94%82%20Open%20Source%20Advocate&descAlignY=65&descSize=14&descColor=8b949e"/>
 
-<!-- Elegant Typing Animation -->
+<!-- Animated Typing -->
 <br/>
 
-```typescript
-const developer = {
-    name: "JWZZ693",
-    role: "Full Stack Architect",
-    philosophy: "Engineering excellence through elegant abstractions",
-    currentFocus: ["Distributed Systems", "AI/ML Infrastructure", "Cloud Native"],
-};
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%E2%9A%A1+Building+the+future+with+code+%E2%9A%A1;%F0%9F%8F%97%EF%B8%8F+Architecting+scalable+distributed+systems;%F0%9F%A4%96+AI-powered+engineering+excellence;%F0%9F%8C%8F+%E4%BB%A3%E7%A0%81%E5%A6%82%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%BC%98%E9%9B%85%E4%B8%94%E5%9D%9A%E5%9B%BA" alt="Typing SVG" /></a>
 
 <br/>
 
+<!-- Status Badges Row -->
 <a href="https://github.com/jwzz693?tab=followers"><img src="https://img.shields.io/github/followers/jwzz693?logo=github&label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="followers"/></a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=jwzz693&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&abbreviated=true&labelColor=161b22" alt="Profile Views"/>
+&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Focus-Cloud%20Native%20%C2%B7%20AI%20%C2%B7%20Architecture-58a6ff?style=for-the-badge&labelColor=161b22" alt="Focus"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%94%A5-3fb950?style=for-the-badge&labelColor=161b22" alt="Status"/></a>
+
+<br/><br/>
+
+<!-- Quick Tech Icons Banner -->
+<img src="https://skillicons.dev/icons?i=python,typescript,react,vue,nodejs,go,docker,kubernetes,aws,redis&theme=dark" alt="Quick Tech"/>
 
 </div>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────── § ABOUT ME ─────────────────── -->
 
@@ -35,7 +41,7 @@ const developer = {
 <tr>
 <td width="55%" valign="top">
 
-## ◈ 关于我
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
 ```yaml
 apiVersion: v1
@@ -45,19 +51,20 @@ metadata:
   labels:
     role: full-stack-architect
     experience: senior
+    location: 🌏 China
 spec:
   passions:
-    - 构建高可用分布式系统
-    - 探索 AI 前沿技术边界
-    - 开源生态贡献与建设
+    - 🏗️ 构建高可用分布式系统
+    - 🤖 探索 AI 前沿技术边界
+    - 🌐 开源生态贡献与建设
   currentWork:
-    - 智能化研发效能平台
-    - 微服务架构深度优化
-    - 云原生基础设施建设
+    - ⚡ 智能化研发效能平台
+    - 🔧 微服务架构深度优化
+    - ☁️ 云原生基础设施建设
   goals2026:
-    - 主导开源框架级项目
-    - 技术影响力持续输出
-    - 架构方法论体系沉淀
+    - 🎯 主导开源框架级项目
+    - 📝 技术影响力持续输出
+    - 📐 架构方法论体系沉淀
   philosophy: |
     "优秀的代码是精心设计的产物，
      而非偶然的结果。"
@@ -71,122 +78,161 @@ spec:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=380&height=80&lines=%E2%96%B8+Architecting+scalable+systems;%E2%96%B8+Engineering+with+precision;%E2%96%B8+%E4%BB%A3%E7%A0%81%E5%A6%82%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%BC%98%E9%9B%85%E4%B8%94%E5%9D%9A%E5%9B%BA" alt="Typing SVG" />
+<!-- Activity Status Cards -->
+<img src="https://img.shields.io/badge/🔭_Working_on-智能研发平台-58a6ff?style=flat-square&labelColor=0d1117" alt="Working on"/>
+<br/>
+<img src="https://img.shields.io/badge/🌱_Learning-LLM%20%7C%20eBPF%20%7C%20Rust-3fb950?style=flat-square&labelColor=0d1117" alt="Learning"/>
+<br/>
+<img src="https://img.shields.io/badge/💬_Ask_me-Architecture%20%7C%20Cloud%20Native-f0883e?style=flat-square&labelColor=0d1117" alt="Ask me"/>
+<br/>
+<img src="https://img.shields.io/badge/⚡_Fun_fact-深夜灵感时段%2000:00--03:00-e3b341?style=flat-square&labelColor=0d1117" alt="Fun fact"/>
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────── § TECH STACK ─────────────────── -->
 
 <div align="center">
 
-## ◈ 技术矩阵
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 技术矩阵
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-**▸ Languages**
-
+<!-- Languages with animated header -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/⟨_/_⟩_LANGUAGES-58a6ff?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,go,rust,cpp,bash&perline=8&theme=dark" alt="Languages"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Go-Advanced-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Rust-Learning-DEA584?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,go&perline=3&theme=dark" alt="Languages"/>
+<br/><br/>
 
-</td>
-<td align="center" width="25%">
-
-**▸ Frontend**
-
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/🎨_FRONTEND-3fb950?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,angular,svelte,tailwind,sass,html,css&perline=10&theme=dark" alt="Frontend"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass&perline=3&theme=dark" alt="Frontend"/>
+<br/><br/>
 
-</td>
-<td align="center" width="25%">
-
-**▸ Backend**
-
+<!-- Backend -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/⚙️_BACKEND-f0883e?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,fastapi,graphql,rabbitmq,kafka&perline=10&theme=dark" alt="Backend"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,spring,graphql,kafka&perline=3&theme=dark" alt="Backend"/>
+<br/><br/>
 
-</td>
-<td align="center" width="25%">
-
-**▸ Infrastructure**
-
+<!-- Databases -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/🗄️_DATA_LAYER-e3b341?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch,cassandra,sqlite,supabase&perline=8&theme=dark" alt="Databases"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions&perline=3&theme=dark" alt="DevOps"/>
+<br/><br/>
 
-</td>
-</tr>
-</table>
-
+<!-- DevOps & Cloud -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/☁️_CLOUD_%26_DEVOPS-da3633?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible,prometheus,grafana,githubactions&perline=10&theme=dark" alt="DevOps"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<br/><br/>
 
-**▸ Databases**
-
+<!-- AI & ML -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
+<img src="https://img.shields.io/badge/🤖_AI_%26_MACHINE_LEARNING-bc8cff?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8&theme=dark" alt="AI/ML"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch&perline=5&theme=dark" alt="Databases"/>
+<br/><br/>
 
-</td>
-<td align="center" width="33%">
-
-**▸ Tools & Platforms**
-
+<!-- Tools -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" alt=""/>
 <br/>
-
-<img src="https://skillicons.dev/icons?i=git,linux,nginx,vscode,figma&perline=5&theme=dark" alt="Tools"/>
-
-</td>
-<td align="center" width="33%">
-
-**▸ AI / ML**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=5&theme=dark" alt="AI/ML"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🛠️_TOOLS_%26_WORKSPACE-8b949e?style=for-the-badge&labelColor=0d1117" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode,idea,postman,figma,notion,obsidian&perline=10&theme=dark" alt="Tools"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </div>
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § EXPERTISE RADAR ─────────────────── -->
 
 <div align="center">
 
-## ◈ 能力雷达
-
-<br/>
-
-```
-                    System Design
-                         ██████████  95%
-                        ╱            ╲
-     Cloud Native  █████████  90%     █████████  92%  Frontend
-                  ╱                            ╲
-    DevOps/SRE  ████████  88%          █████████  90%  Backend
-                  ╲                            ╱
-     Database  █████████  87%          ████████  82%  AI/ML
-                        ╲            ╱
-                         █████████  85%
-                      Distributed Systems
-```
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> 能力雷达
 
 <br/>
 
@@ -196,14 +242,14 @@ spec:
 
 | Domain | Proficiency | Level |
 |:-------|:----------:|:-----:|
-| `System Architecture` | █████████░ | **95%** |
-| `Frontend Engineering` | █████████░ | **92%** |
-| `Backend Development` | █████████░ | **90%** |
-| `Cloud Native / K8s` | █████████░ | **90%** |
-| `DevOps & SRE` | ████████░░ | **88%** |
-| `Database Design` | ████████░░ | **87%** |
-| `Distributed Systems` | ████████░░ | **85%** |
-| `AI/ML Engineering` | ████████░░ | **82%** |
+| 🏗️ `System Architecture` | <img src="https://geps.dev/progress/95?successColor=58a6ff" width="120"/> | **95%** |
+| 🎨 `Frontend Engineering` | <img src="https://geps.dev/progress/92?successColor=3fb950" width="120"/> | **92%** |
+| ⚙️ `Backend Development` | <img src="https://geps.dev/progress/90?successColor=f0883e" width="120"/> | **90%** |
+| ☁️ `Cloud Native / K8s` | <img src="https://geps.dev/progress/90?successColor=58a6ff" width="120"/> | **90%** |
+| 🔧 `DevOps & SRE` | <img src="https://geps.dev/progress/88?successColor=e3b341" width="120"/> | **88%** |
+| 🗄️ `Database Design` | <img src="https://geps.dev/progress/87?successColor=3fb950" width="120"/> | **87%** |
+| 🌐 `Distributed Systems` | <img src="https://geps.dev/progress/85?successColor=da3633" width="120"/> | **85%** |
+| 🤖 `AI/ML Engineering` | <img src="https://geps.dev/progress/82?successColor=bc8cff" width="120"/> | **82%** |
 
 </td>
 </tr>
@@ -213,11 +259,14 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § GITHUB METRICS ─────────────────── -->
 
 <div align="center">
 
-## ◈ GitHub 数据面板
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub 数据面板
 
 <br/>
 
@@ -229,15 +278,27 @@ spec:
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=jwzz693&hide_border=true&locale=zh_Hans&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="Streak Stats"/>
 
+<br/><br/>
+
+<!-- Metrics Badges -->
+<img src="https://img.shields.io/badge/Total_Commits_2026-loading-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Commits"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pull_Requests-Active-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="PRs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Issues_Resolved-Many-f0883e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" alt="Issues"/>
+
 </div>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────── § TROPHY CASE ─────────────────── -->
 
 <div align="center">
 
-## ◈ 成就陈列
+## 🏆 成就陈列
 
 <br/>
 
@@ -247,11 +308,14 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § ACTIVITY & CONTRIBUTION ─────────────────── -->
 
 <div align="center">
 
-## ◈ 贡献全景
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rlg/giphy.gif" width="32"> 贡献全景
 
 <br/>
 
@@ -266,15 +330,23 @@ spec:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jwzz693&theme=github_dark&utcOffset=8" alt="Productive Time" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jwzz693&theme=github_dark" alt="Repos Per Language" width="49%"/>
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jwzz693&theme=github_dark" alt="Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jwzz693&theme=github_dark" alt="Most Commit Language" width="49%"/>
+
 </div>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────── § CONTRIBUTION SNAKE ─────────────────── -->
 
 <div align="center">
 
-## ◈ 贡献动画
+## 🐍 贡献动画
 
 <br/>
 
@@ -288,11 +360,14 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § CURRENT FOCUS ─────────────────── -->
 
 <div align="center">
 
-## ◈ 工程焦点
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> 工程焦点
 
 <br/>
 
@@ -300,30 +375,26 @@ spec:
 <tr>
 <td align="center" width="50%">
 
-### ▸ 在研方向
+### 🔭 在研方向
 
-```
-┌──────────────────────────────────┐
-│  ◆ 智能研发效能平台              │
-│  ◆ 大规模微服务治理框架          │
-│  ◆ 实时数据处理管线              │
-│  ◆ 开源基础设施组件              │
-└──────────────────────────────────┘
-```
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_智能研发效能平台-58a6ff?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/🔧_大规模微服务治理框架-3fb950?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/📊_实时数据处理管线-f0883e?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/🌐_开源基础设施组件-e3b341?style=for-the-badge&labelColor=0d1117" alt=""/>
 
 </td>
 <td align="center" width="50%">
 
-### ▸ 技术探索
+### 🌱 技术探索
 
-```
-┌──────────────────────────────────┐
-│  ◆ LLM 应用工程化实践            │
-│  ◆ eBPF 可观测性体系             │
-│  ◆ Rust 系统级编程               │
-│  ◆ WebAssembly 边缘计算          │
-└──────────────────────────────────┘
-```
+<br/>
+
+<img src="https://img.shields.io/badge/🤖_LLM_应用工程化实践-bc8cff?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/🔬_eBPF_可观测性体系-da3633?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/🦀_Rust_系统级编程-DEA584?style=for-the-badge&labelColor=0d1117" alt=""/><br/>
+<img src="https://img.shields.io/badge/🌍_WebAssembly_边缘计算-654FF0?style=for-the-badge&labelColor=0d1117" alt=""/>
 
 </td>
 </tr>
@@ -333,17 +404,20 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § PINNED PROJECTS ─────────────────── -->
 
 <div align="center">
 
-## ◈ 精选项目
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> 精选项目
 
 <br/>
 
-<a href="https://github.com/jwzz693"><img src="https://img.shields.io/badge/▸_请将您最出色的仓库_Pin_到_Profile_页面-161b22?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff" alt="Pin Projects"/></a>
+<a href="https://github.com/jwzz693"><img src="https://img.shields.io/badge/📌_请将您最出色的仓库_Pin_到_Profile_页面-161b22?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff" alt="Pin Projects"/></a>
 
-<br/>
+<br/><br/>
 
 <sub>GitHub Profile → Customize your pins → 选择您最引以为豪的项目展示</sub>
 
@@ -351,11 +425,14 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § DAILY QUOTE ─────────────────── -->
 
 <div align="center">
 
-## ◈ 灵感驿站
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> 灵感驿站
 
 <br/>
 
@@ -365,37 +442,71 @@ spec:
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § FUN FACTS ─────────────────── -->
 
 <div align="center">
 
-## ◈ 碎片拼图
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> 碎片拼图
 
 <br/>
 
 ```python
 class JWZZ693:
-    """A developer who believes in craftsmanship."""
+    """A developer who believes in craftsmanship. 🛠️"""
 
     daily_fuel     = "☕ × 3"
-    peak_hours     = "00:00 — 03:00"   # 深夜灵感时段
-    side_quests    = ["游戏引擎探索", "开源社区运营", "技术文章输出"]
-    code_review    = True               # 代码审查是信仰
-    motto          = "代码即基建，架构即艺术"
+    peak_hours     = "00:00 — 03:00"   # 🌙 深夜灵感时段
+    side_quests    = ["🎮 游戏引擎探索", "🌐 开源社区运营", "✍️ 技术文章输出"]
+    code_review    = True               # 📝 代码审查是信仰
+    motto          = "🏗️ 代码即基建，架构即艺术"
 
     def __repr__(self):
-        return "< Engineer who ships with precision />"
+        return "< ⚡ Engineer who ships with precision />"
 ```
+
+<br/>
+
+<!-- Fun Badges -->
+<img src="https://img.shields.io/badge/☕_Powered_by-Coffee-6F4E37?style=for-the-badge&labelColor=0d1117" alt="Coffee"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌙_Active_at-Night-191970?style=for-the-badge&labelColor=0d1117" alt="Night Owl"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎧_Coding_with-Music-1DB954?style=for-the-badge&labelColor=0d1117" alt="Music"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🐧_OS-Linux-FCC624?style=for-the-badge&labelColor=0d1117" alt="Linux"/>
 
 </div>
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ─────────────────── § SPOTIFY ─────────────────── -->
+
+<div align="center">
+
+## 🎵 近期在听
+
+<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31example&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § CONNECT ─────────────────── -->
 
 <div align="center">
 
-## ◈ 建立连接
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="48"> 建立连接
 
 <br/>
 
@@ -408,22 +519,42 @@ class JWZZ693:
 <a href="#"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" alt="Telegram"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff" alt="Dev.to"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium"/></a>
 
 <br/><br/>
 
-<sub>欢迎技术交流 · 项目合作 · 思想碰撞</sub>
+<img src="https://img.shields.io/badge/📧-随时欢迎联系交流-58a6ff?style=flat-square&labelColor=0d1117" alt=""/>
+<br/>
+<sub>技术交流 · 项目合作 · 思想碰撞 · Open Source</sub>
 
 </div>
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ─────────────────── § SUPPORT ─────────────────── -->
 
 <div align="center">
 
+<br/>
+
 <img src="https://img.shields.io/github/followers/jwzz693?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=58a6ff" alt="Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/jwzz693?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=e3b341" alt="Stars"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐_如果喜欢请_Star-Thank_You!-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Star"/>
+
+<br/><br/>
+
+<!-- Random Dev Joke -->
+<img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&qColor=%2358a6ff&aColor=%233fb950" alt="Jokes Card" width="60%"/>
 
 </div>
 
@@ -433,21 +564,20 @@ class JWZZ693:
 
 <div align="center">
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
 <br/>
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   "Any fool can write code that a computer can understand.   ║
-  ║    Good programmers write code that humans can understand."   ║
-  ║                                        — Martin Fowler       ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+> 
+> **— Martin Fowler**
 
-<sub>Crafted with intention by <a href="https://github.com/jwzz693">@jwzz693</a> · Last updated Feb 2026</sub>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Thanks+for+visiting!+%F0%9F%91%8B+Have+a+great+day!;Crafted+with+%E2%9D%A4%EF%B8%8F+by+JWZZ693+%C2%B7+2026" alt="Footer Typing SVG" />
 
 </div>
 
