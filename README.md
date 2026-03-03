@@ -300,9 +300,9 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jwzz693&show_icons=true&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwzz693&show_icons=true&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jwzz693&layout=compact&langs_count=10&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwzz693&layout=compact&langs_count=10&locale=cn&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 <br/><br/>
 
@@ -332,7 +332,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=jwzz693&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&locale=cn" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jwzz693&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&locale=cn" alt="Trophies"/>
 
 </div>
 
